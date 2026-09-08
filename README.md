@@ -4,4 +4,4 @@ Index + Style sont la partie graphique du projet statique.
 
 Lien vers le site : https://gagnantn.github.io/Pokedex/
 
-Dernière mise à jour : 
+Dernière mise à jour : 07 / 09 / 2026
