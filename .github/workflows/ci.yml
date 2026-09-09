@@ -6,6 +6,7 @@ on:
     branches:
       - main
       - dev
+      - test-workflow
 
 jobs:
   mon-premier-job-de-test:
