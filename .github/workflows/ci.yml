@@ -1,0 +1,16 @@
+name: Verification du PokeDex
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+      - dev
+
+jobs:
+  mon-premier-job-de-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Afficher un message
+        run: echo "La pipeline GitHub Actions fonctionne !"
